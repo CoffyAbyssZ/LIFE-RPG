@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "LIFE RPG",
+  "short_name": "LIFE RPG",
+  "description": "La tua vita, il tuo percorso, i tuoi obiettivi.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#05070d",
+  "theme_color": "#080d18",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
